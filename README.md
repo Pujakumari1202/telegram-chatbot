@@ -15,3 +15,14 @@
 ````bash
   pip install -r requirement.txt
 ````
+
+
+````bash
+  python main.py
+````
+
+````bash
+ python research/echo_bot.py
+````
+
+
