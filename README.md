@@ -3,12 +3,12 @@
 ## Steps to run the project 
 
 ````bash
-  conda create -n openai python=3.12.4 -y
+  conda create -n python=3.7 -y
 
 ````
 
 ````bash
-  conda activate openai
+  conda activate python=3.7
 
 ````
 
